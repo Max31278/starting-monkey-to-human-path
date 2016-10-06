@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration SYSTEM "housekeeper.dtd">
+<configuration>
+	<housekeeper>
+		<tariffs coldwater="32" hotwater="124" electricity="6.18" gas="3.20" ></tariffs>
+		<building street="Специалистов" number="11" flatsquantity="15">
+			<flat number="11" personsquantity="2" area="30" >
+				<registration month="6" year="2016">
+					<coldwater>420</coldwater>
+					<hotwater>125</hotwater>
+					<electricity>4444</electricity>
+					<gas>135</gas>
+				</registration>
+				<registration month="7" year="2016">
+					<coldwater>435</coldwater>
+					<hotwater>128</hotwater>
+					<electricity>4555</electricity>
+					<gas>145</gas>
+				</registration>
+				<registration month="8" year="2016">
+					<coldwater>460</coldwater>
+					<hotwater>132</hotwater>
+					<electricity>4666</electricity>
+					<gas>157</gas>
+				</registration>
+				<registration month="9" year="2016">
+					<coldwater>480</coldwater>
+					<hotwater>134</hotwater>
+					<electricity>4777</electricity>
+					<gas>164</gas>
+				</registration>
+			</flat>
+			<flat number="12" personsquntity="4" area="45" >
+				<registration month="6" year="2016">
+					<coldwater>560</coldwater>
+					<hotwater>140</hotwater>
+					<electricity>5555</electricity>
+					<gas>200</gas>
+				</registration>
+				<registration month="7" year="2016">
+					<coldwater>590</coldwater>
+					<hotwater>148</hotwater>
+					<electricity>5656</electricity>
+					<gas>212</gas>
+				</registration>
+				<registration month="8" year="2016">
+					<coldwater>625</coldwater>
+					<hotwater>163</hotwater>
+					<electricity>5800</electricity>
+					<gas>225</gas>
+				</registration>
+				<registration month="9" year="2016">
+					<coldwater>645</coldwater>
+					<hotwater>170</hotwater>
+					<electricity>5880</electricity>
+					<gas>235</gas>
+				</registration>
+			</flat>
+			<flat number="13" personsquntity="3" area="45">
+				<registration month="6" year="2016">
+					<coldwater>475</coldwater>
+					<hotwater>110</hotwater>
+					<electricity>4900</electricity>
+					<gas>160</gas>
+				</registration>
+				<registration month="7" year="2016">
+					<coldwater>480</coldwater>
+					<hotwater>111</hotwater>
+					<electricity>4950</electricity>
+					<gas>166</gas>
+				</registration>
+				<registration month="8" year="2016">
+					<coldwater>490</coldwater>
+					<hotwater>113</hotwater>
+					<electricity>5025</electricity>
+					<gas>172</gas>
+				</registration>
+				<registration month="9" year="2016">
+					<coldwater>500</coldwater>
+					<hotwater>116</hotwater>
+					<electricity>5032</electricity>
+					<gas>180</gas>
+				</registration>
+			</flat>
+		</building>
+	</housekepper>
+</configuration>
