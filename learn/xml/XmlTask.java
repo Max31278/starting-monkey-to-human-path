@@ -11,4 +11,5 @@ package PO41.Koval.wdad.learn.xml;
  */
 public class XmlTask {
     
+    
 }
